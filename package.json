@@ -1,0 +1,14 @@
+{
+  "name": "Forona-Kalolsavam-2026",
+  "version": "1.0.0",
+  "description": "Forona Kalolsavam 2026 Result Portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
