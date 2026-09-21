@@ -21,6 +21,8 @@ const items = [
     "Bible Quiz",
     "തെരുവ് നാടകം",
     "നാടകം"
+    "മാർഗംകളി"
+    "Grade Points"
 ];
 
 
